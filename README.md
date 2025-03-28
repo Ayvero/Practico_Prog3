@@ -97,8 +97,8 @@ Métrica para analizar el costo de la solución: cantidad de estados generados.
 
 /*
 * <<Breve explicación de la estrategia de resolución>>
-*/
 public Solucion backtracking(...) {}
+*/
 
 ## Greedy
 Solución obtenida: cada procesador con las tareas asignadas.
@@ -106,5 +106,37 @@ Solución obtenida: cada procesador con las tareas asignadas.
 Solución obtenida: tiempo máximo de ejecución.
 
 Métrica para analizar el costo de la solución: cantidad de candidatos considerados.
+
+----------------------------
+
+# Task Scheduling and Processor Assignment  
+
+## Summary  
+This project focuses on solving various problems related to a simplified model of **processors and tasks**.  
+
+### **Phase 1: Task Search Services**  
+The first phase involves implementing efficient algorithms to process and search for tasks based on different criteria:  
+- Retrieve task details by ID.  
+- Filter tasks based on criticality.  
+- Find tasks within a priority range.  
+
+### **Phase 2: Task Assignment to Processors**  
+The second phase aims to **assign tasks to processors** while minimizing the overall execution time.  
+- Constraints:  
+  - No processor can handle more than **two critical tasks**.  
+  - **Non-cooled processors** have a limited execution time.  
+
+### **Algorithms Used**  
+Two techniques are implemented to solve the scheduling problem:  
+1. **Backtracking** – explores different possible assignments to find an optimal solution.  
+2. **Greedy Algorithm** – provides an approximate solution using heuristic methods.  
+
+### **Objective**  
+The goal is to compare both approaches based on:  
+- **Solution quality** (task distribution and execution time).  
+- **Computational cost** (number of states/candidates evaluated).  
+
+This project is useful for **task scheduling, resource allocation, and optimization problems** in computing and logistics. 🚀  
+
 
 
