@@ -2,7 +2,7 @@
 
 ## 📌 Descripción  
 
-Este proyecto es el trabajo práctico final de la materia **[Programacion 3 ]** en la ** [Universidad Nacional  del Centro (UNICEN) ]**.  
+Este proyecto es el trabajo práctico final de la materia **Programacion 3** en la **Universidad Nacional  del Centro (UNICEN)**.  
 El objetivo es desarrollar algoritmos de búsqueda y optimización para la asignación eficiente de tareas a procesadores, aplicando técnicas de **Backtracking** y **Greedy**.  
 
 El problema se basa en procesar información de archivos CSV que contienen listas de tareas y procesadores, y luego asignarlas de manera óptima bajo ciertas restricciones.  
@@ -43,4 +43,4 @@ Los resultados incluyen:
 
 1. Clonar el repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/Ayvero/Practico_Prog3.git
