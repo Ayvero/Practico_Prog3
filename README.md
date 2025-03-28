@@ -2,7 +2,7 @@
 
 ## 📌 Descripción  
 
-Este proyecto es el trabajo práctico final de la materia ** Programacion 3 ** en la ** Universidad Nacional  del Centro (UNICEN) **.  
+Este proyecto es el trabajo práctico final de la materia **[Programacion 3 ]** en la ** [Universidad Nacional  del Centro (UNICEN) ]**.  
 El objetivo es desarrollar algoritmos de búsqueda y optimización para la asignación eficiente de tareas a procesadores, aplicando técnicas de **Backtracking** y **Greedy**.  
 
 El problema se basa en procesar información de archivos CSV que contienen listas de tareas y procesadores, y luego asignarlas de manera óptima bajo ciertas restricciones.  
@@ -26,10 +26,9 @@ El desafío principal es minimizar el tiempo de ejecución total, asegurando un 
 
 ## 📂 Estructura del Repositorio  
 
-- `src/` → Código fuente del proyecto  
-- `data/` → Archivos CSV de entrada  
-- `docs/` → Documentación adicional  
-- `consigna.md` → Detalle completo del enunciado del trabajo práctico  
+- `TPE/` → Código fuente del proyecto  
+- `dataTPE/` → Archivos CSV de entrada  
+- `Enunciado.pdf` → Detalle completo del enunciado del trabajo práctico  
 
 ## 📊 Comparación de Algoritmos  
 
