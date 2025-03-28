@@ -44,3 +44,24 @@ Los resultados incluyen:
 1. Clonar el repositorio:  
    ```bash
    git clone https://github.com/Ayvero/Practico_Prog3.git
+
+2.  Compilar el proyecto:
+   javac -d bin src/*.java
+
+4. Ejecutar el programa:
+
+   java -cp bin Main
+
+   📢 Notas
+Este proyecto fue desarrollado como parte de la evaluación final de [Nombre de la materia].
+
+Se buscó aplicar buenas prácticas de programación y optimización de algoritmos.
+
+Cualquier sugerencia o feedback es bienvenido.
+
+---------------------------------------------------
+
+
+
+
+
